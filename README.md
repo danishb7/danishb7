@@ -1,12 +1,12 @@
 # Heyy there 👋 
 #### I'm Danish Bhatkar, and I turn **complex data** into **clear and easy-to-understand visuals**.
 
-I’m a **Computer Science graduate student** at **Clemson University**, specializing in **Data Analysis**, **Machine Learning**, and **AI-driven solutions**. I am currently seeking **full-time opportunities** in roles like **Data Analyst**, **Data Scientist**, and **Machine Learning Engineer**.
+I’m a **Computer Science graduate student** at **Clemson University**, specializing in **Data Analysis** and **Machine Learning**. I am currently seeking **full-time opportunities** in **Data Analyst**, **Data Scientist**, and **ML Engineer** roles.
 
 ## 🚀 About Me
 - Recently graduated with a **Master's in Computer Science** from **Clemson University**.
 - Experienced in **Python**, **SQL**, **Power BI**, **Data Analysis**, **Machine Learning**, and **Deep Learning**.
-- Passionate about solving real-world problems using **ML** and **data-driven** decision-making.
+- Passionate about solving real-world problems using **ML** and **data-centric** decision-making.
 - Actively working on projects including an extension of **LoRA** to improve its performance, **facial recognition app**, **stock price prediction**, **wildfire detection**, and a **movie recommendation system**.
 - Interested in **data visualization** and creating interactive **dashboards**.
 
@@ -33,4 +33,4 @@ I’m a **Computer Science graduate student** at **Clemson University**, special
 - **LinkedIn**: [danish-bhatkar](https://www.linkedin.com/in/danish-bhatkar)
 - **Email**: bhatkardanish7@gmail.com | dbhatka@clemson.edu
 
-Looking forward to connecting with you and collaborating on exciting data-driven projects! 😎
+Looking forward to connecting with you and collaborating on exciting analytics-powered projects! 😎
