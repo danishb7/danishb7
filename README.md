@@ -15,11 +15,11 @@ I’m a **Computer Science graduate student** at **Clemson University**, special
 - **Data Analyst (Dec 2020 - Jul 2023)** at **Godrej & Boyce Mfg. Co. Ltd.**, where I optimized reporting processes, integrated diverse datasets, and provided actionable insights through **Power BI** and **SQL**.
 
 ## 📚 Featured Projects
-- **[Wildfire Detection with ResNet-50](#)**: Classifying wildfire images using deep learning models.
-- **[Movie Recommendation App](#)**: Built a recommendation system for personalized movie suggestions.
-- **[Olympics Dashboard](#)**: Interactive dashboard designed with **D3.js**, **HTML**, and **CSS** to visualize Olympics data.
-- **[Premier League Statistical Analysis](#)**: Analyzing data from the Premier League matches (1993-2023) using **SAS**.
-- **[Stock Price Prediction](#)**: Comparative study of **ML** and **DL** techniques for stock forecasting (AAPL & other tech stocks).
+- **[Wildfire Detection with ResNet-50](https://github.com/danishb7/Wildfire-Detection-with-ResNet-50)**: Classifying wildfire images using deep learning models.
+- **[Stock Price Prediction](https://github.com/danishb7/stock-price-prediction)**: Comparative study of **ML** and **DL** techniques for stock forecasting (AAPL & other tech stocks).
+- **[Movie Recommendation App](https://github.com/danishb7/popcorn-picks)**: Built a recommendation system for personalized movie suggestions.
+- **[Olympics Dashboard](https://github.com/danishb7/Data-Visualization-gr-01)**: Interactive dashboard designed with **D3.js**, **HTML**, and **CSS** to visualize Olympics data.
+- **[Premier League Statistical Analysis](https://github.com/danishb7/Premier-League-1993-2023)**: Analyzing data from the Premier League matches (1993-2023) using **SAS**.
 
 ## 🛠️ Skills
 - **Programming & Scripting**: Python, SQL, C/C++, Java, JavaScript
