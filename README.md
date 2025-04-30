@@ -1,5 +1,5 @@
 # Heyy there 👋 
-### I'm Danish Bhatkar, and I turn **complex data** into **clear and easy-to-understand visuals**.
+#### I'm Danish Bhatkar, and I turn **complex data** into **clear and easy-to-understand visuals**.
 
 I’m a **Computer Science graduate student** at **Clemson University**, specializing in **Data Analysis**, **Machine Learning**, and **AI-driven solutions**. I am currently seeking **full-time opportunities** in roles like **Data Analyst**, **Data Scientist**, and **Machine Learning Engineer**.
 
