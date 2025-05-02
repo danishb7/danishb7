@@ -29,6 +29,8 @@ I’m a **Computer Science graduate student** at **Clemson University**, special
 - **Machine Learning & AI**: Scikit-learn, TensorFlow, Keras, PyTorch, OpenAI API, LangChain, Gymnasium
 - **Cloud Computing & DevOps**: AWS (EC2, S3, Lambda, DynamoDB, QuickSight), Docker, Kubernetes, Git, CI/CD
 
+![danishb7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danishb7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ## 📫 Contact Me
 - **GitHub**: [danishb7](https://github.com/danishb7)
 - **LinkedIn**: [danish-bhatkar](https://www.linkedin.com/in/danish-bhatkar)
@@ -36,4 +38,3 @@ I’m a **Computer Science graduate student** at **Clemson University**, special
 
 Looking forward to connecting with you and collaborating on exciting analytics-powered projects! 😎
 
-![danishb7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danishb7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
