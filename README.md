@@ -35,3 +35,5 @@ I’m a **Computer Science graduate student** at **Clemson University**, special
 - **Email**: bhatkardanish7@gmail.com | dbhatka@clemson.edu
 
 Looking forward to connecting with you and collaborating on exciting analytics-powered projects! 😎
+
+![danishb7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danishb7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
