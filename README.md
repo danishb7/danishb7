@@ -29,7 +29,7 @@ I’m a **Computer Science graduate student** at **Clemson University**, special
 - **Machine Learning & AI**: Scikit-learn, TensorFlow, Keras, PyTorch, OpenAI API, LangChain, Gymnasium
 - **Cloud Computing & DevOps**: AWS (EC2, S3, Lambda, DynamoDB, QuickSight), Docker, Kubernetes, Git, CI/CD
 
-![danishb7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danishb7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishb7&layout=donut)](https://github.com/danishb7/github-readme-stats)
 
 ## 📫 Contact Me
 - **GitHub**: [danishb7](https://github.com/danishb7)
