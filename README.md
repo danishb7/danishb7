@@ -20,6 +20,7 @@ I’m a **Computer Science graduate student** at **Clemson University**, special
 - **[Movie Recommendation App](https://github.com/danishb7/popcorn-picks)**: Built a recommendation system for personalized movie suggestions.
 - **[Olympics Dashboard](https://github.com/danishb7/Data-Visualization-gr-01)**: Interactive dashboard designed with **D3.js**, **HTML**, and **CSS** to visualize Olympics data.
 - **[Premier League Statistical Analysis](https://github.com/danishb7/Premier-League-1993-2023)**: Analyzing data from the Premier League matches (1993-2023) using **SAS**.
+- **[Text-CRS Framework](https://github.com/danishb7/Text-CRS_NTS_Final)**: Extending the **TextCRS** framework to defend against sentence-level adversarial attacks using **LSTM** and **BERT**.
 
 ## 🛠️ Skills
 - **Programming & Scripting**: Python, SQL, C/C++, Java, JavaScript
