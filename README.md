@@ -7,7 +7,7 @@ I’m a **Computer Science graduate student** at **Clemson University**, special
 - Recently graduated with a **Master's in Computer Science** from **Clemson University**.
 - Experienced in **Python**, **SQL**, **Power BI**, **Data Analysis**, **Machine Learning**, and **Deep Learning**.
 - Passionate about solving real-world problems using **ML** and **data-centric** decision-making.
-- Actively working on projects including an extension of **LoRA** to improve its performance, **facial recognition app**, **stock price prediction**, **wildfire detection**, and a **movie recommendation system**.
+- Actively working on the extension of **LoRA** framework to optimize its fine-tuning efficiency without compromising the model performance.
 - Interested in **data visualization** and creating interactive **dashboards**.
 
 ## 💼 Past Experience
