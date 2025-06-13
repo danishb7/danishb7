@@ -1,14 +1,13 @@
 # Hey there 👋 
 #### I'm Danish Bhatkar, and I turn **complex data** into **clear and easy-to-understand visuals**.
 
-I’m a **Computer Science graduate student** at **Clemson University**, specializing in **Data Analysis** and **Machine Learning**. I am currently seeking **full-time opportunities** in **Data Analyst**, **Data Scientist**, and **ML Engineer** roles.
+I'm a **Data Scientist** with **3+ Years of Experience in Data Analysis** and **Machine Learning**, specializing in **predictive modeling, data visualization**, and **model optimization**.
 
 ## 🚀 About Me
-- Recently graduated with a **Master's in Computer Science** from **Clemson University**.
-- Experienced in **Python**, **SQL**, **Power BI**, **Data Analysis**, **Machine Learning**, and **Deep Learning**.
-- Passionate about solving real-world problems using **ML** and **data-centric** decision-making.
-- Actively working on the extension of **LoRA** framework to optimize its fine-tuning efficiency without compromising the model performance.
-- Interested in **data visualization** and creating interactive **dashboards**.
+- Proficient in **Python**, **SQL**, **Power BI**, and **advanced machine learning techniques**.
+- **Automated processes**, **reducing reporting time by 10 hours/month** and **improved data accuracy by 28%** at Godrej & Boyce.
+- Experienced with **large-scale data analysis**, **feature engineering**, and **building dashboards** that support **business decision-making**.
+- I enjoy solving complex problems with data and continuously building on my skills to make a real impact.
 
 ## 💼 Past Experience
 - **Teaching Assistant (Aug 2024 - Dec 2024)** at **Clemson University**, where I led lab sessions on **Data Structures**, **Algorithms**, and **Office Applications**.
