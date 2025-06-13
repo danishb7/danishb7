@@ -1,7 +1,7 @@
 # Hey there 👋 
 #### I'm Danish Bhatkar, and I turn **complex data** into **clear and easy-to-understand visuals**.
 
-I'm a **Data Scientist** with **3+ Years of Experience in Data Analysis** and **Machine Learning**, specializing in **predictive modeling, data visualization**, and **model optimization**.
+**Data Scientist** with **3+ Years of Experience in Data Analysis** and **Machine Learning**, specializing in **predictive modeling, data visualization**, and **model optimization**.
 
 ## 🚀 About Me
 - Proficient in **Python**, **SQL**, **Power BI**, and **advanced machine learning techniques**.
