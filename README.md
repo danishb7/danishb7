@@ -10,7 +10,7 @@
 - I enjoy solving complex problems with data and continuously building on my skills to make a real impact.
 
 ## 💼 Past Experience
-- **Teaching Assistant (Aug 2024 - Dec 2024)** at **Clemson University**, where I led lab sessions on **Data Structures**, **Algorithms**, and **Office Applications**.
+- **ML Engineer (Jan 2025 - Jun 2025)** at **Clemson University**, where I'm currently working on the **PEFT LoRA techniques** to improve the **fine-tuning** efficiency and accuracy of **LLMs**.
 - **Data Analyst (Dec 2020 - Jul 2023)** at **Godrej & Boyce Mfg. Co. Ltd.**, where I optimized reporting processes, integrated diverse datasets, and provided actionable insights through **Power BI** and **SQL**.
 
 ## 📚 Featured Projects
