@@ -5,8 +5,8 @@
 
 ## 🚀 About Me
 - I work primarily as a **Python developer** on **cloud-based platforms**, shipping and supporting production systems that move and transform large volumes of data with **AWS** (e.g. Step Functions, Glue, Lambda, S3, Kafka, DynamoDB, EventBridge), **PostgreSQL**, **SQL**, and tools like **Postman**.
-- I still bring a **data science** lens: I'm comfortable with **predictive modeling**, **feature engineering**, **ML workflows**, and **analytics**—skills I applied in roles like ML engineering at Clemson and data analysis at Godrej & Boyce.
-- I enjoy solving complex problems end to end—from **root-cause analysis** in production to **optimization** of pipelines—and I keep growing across both **software delivery** and **data-driven** work.
+- I maintain a strong foundation in **data science**, including **predictive modeling**, **feature engineering**, **ML workflows**, and **analytics**.
+- I focus on end-to-end delivery, from **root-cause analysis** in production to **optimization** of data pipelines, and I continue to deepen my expertise in **software delivery** and **data-driven** solutions.
 
 ## 💼 Experience
 - **Python Developer (Sep 2025 - Present)** at **Perficient** (client: **LPL Financial**) on the **ASOR** platform — production support, releases, and legacy-to-modern migration using **Python**, **SQL**, **PostgreSQL**, **Postman**, and **AWS** (Step Functions, Glue, Lambda, S3, Kafka, DynamoDB, EventBridge); recently improved runtime on a high-volume **Glue** ETL job by about **27%**.
