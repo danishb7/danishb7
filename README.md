@@ -1,17 +1,17 @@
 # Hey there 👋 
-#### I'm Danish Bhatkar, and I turn **complex data** into **clear and easy-to-understand visuals**.
+#### I'm Danish Bhatkar, and I build **reliable backend systems**, **data workflows**, and **cloud-native solutions**.
 
-**Data Scientist** with **3+ Years of Experience in Data Analysis** and **Machine Learning**, specializing in **predictive modeling, data visualization**, and **model optimization**.
+**Software / Python Developer** with experience in **Python**, **SQL**, **AWS**, and **PostgreSQL**, with a strong foundation in **data science** and **machine learning** from earlier roles and projects.
 
 ## 🚀 About Me
-- Proficient in **Python**, **SQL**, **Power BI**, and **advanced machine learning techniques**.
-- **Automated processes**, **reducing reporting time by 10 hours/month** and **improved data accuracy by 28%** at Godrej & Boyce.
-- Experienced with **large-scale data analysis**, **feature engineering**, and **building dashboards** that support **business decision-making**.
-- I enjoy solving complex problems with data and continuously building on my skills to make a real impact.
+- I work primarily as a **Python developer** on **cloud-based platforms**, shipping and supporting production systems that move and transform large volumes of data with **AWS** (e.g. Step Functions, Glue, Lambda, S3, Kafka, DynamoDB, EventBridge), **PostgreSQL**, **SQL**, and tools like **Postman**.
+- I still bring a **data science** lens: I'm comfortable with **predictive modeling**, **feature engineering**, **ML workflows**, and **analytics**—skills I applied in roles like ML engineering at Clemson and data analysis at Godrej & Boyce.
+- I enjoy solving complex problems end to end—from **root-cause analysis** in production to **optimization** of pipelines—and I keep growing across both **software delivery** and **data-driven** work.
 
-## 💼 Past Experience
-- **ML Engineer (Jan 2025 - Jun 2025)** at **Clemson University**, where I'm currently working on the **PEFT LoRA techniques** to improve the **fine-tuning** efficiency and accuracy of **foundation models**.
-- **Data Analyst (Dec 2020 - Jul 2023)** at **Godrej & Boyce Mfg. Co. Ltd.**, where I optimized reporting processes, integrated diverse datasets, and provided actionable insights through **Power BI** and **SQL**.
+## 💼 Experience
+- **Python Developer (Sep 2025 - Present)** at **Perficient** (client: **LPL Financial**) on the **ASOR** platform — production support, releases, and legacy-to-modern migration using **Python**, **SQL**, **PostgreSQL**, **Postman**, and **AWS** (Step Functions, Glue, Lambda, S3, Kafka, DynamoDB, EventBridge); recently improved runtime on a high-volume **Glue** ETL job by about **27%**.
+- **ML Engineer (Jan 2025 - Jun 2025)** at **Clemson University**, working on **PEFT LoRA** techniques to improve **fine-tuning** efficiency and accuracy of **foundation models**.
+- **Data Analyst (Dec 2020 - Jul 2023)** at **Godrej & Boyce Mfg. Co. Ltd.**, where I optimized reporting processes, integrated diverse datasets, and delivered insights through **Power BI** and **SQL**.
 
 ## 📚 Featured Projects
 - **[Wildfire Detection with ResNet-50](https://github.com/danishb7/Wildfire-Detection-with-ResNet-50)**: Classifying wildfire images using ResNet-50.
@@ -22,11 +22,12 @@
 - **[Text-CRS Framework](https://github.com/danishb7/Text-CRS_NTS_Final)**: Extending the **TextCRS** framework to defend against sentence-level adversarial attacks using **LSTM** and **BERT**.
 
 ## 🛠️ Skills
-- **Programming & Scripting**: Python, SQL, C/C++, Java, JavaScript
-- **Data Analysis & Processing**: Pandas, NumPy, SQL (Joins, CTEs, Window Functions), ETL processes, and Data Cleansing
-- **Data Visualization**: Power BI (including DAX, Power Query), Tableau, Seaborn, Matplotlib, Excel (VBA), Alteryx
-- **Machine Learning & AI**: Scikit-learn, TensorFlow, Keras, PyTorch, OpenAI API, LangChain, Gymnasium
-- **Cloud Computing & DevOps**: AWS (EC2, S3, Lambda, DynamoDB, QuickSight), Docker, Kubernetes, Git, CI/CD
+- **Software & Backend Development**: Python, SQL, Git, Spark SQL (ETL-oriented)
+- **Cloud & Data Engineering (AWS)**: Step Functions, Glue, Lambda, S3, DynamoDB, EventBridge, MSK/Kafka-related workflows, CI/CD
+- **Databases & Data Processing**: PostgreSQL, SQL (joins, CTEs, window functions), ETL, data cleansing, Pandas, NumPy
+- **APIs & Quality**: Postman, testing and troubleshooting integration and data flows
+- **Data Science & Machine Learning**: Scikit-learn, TensorFlow, Keras, PyTorch, OpenAI API, LangChain, Gymnasium; feature engineering
+- **Data Visualization & Analytics**: Power BI (DAX, Power Query), Tableau, Seaborn, Matplotlib, Excel (VBA), Alteryx
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishb7&layout=donut&theme=react)](https://github.com/danishb7/github-readme-stats)
 
@@ -35,5 +36,4 @@
 - **LinkedIn**: [danish-bhatkar](https://www.linkedin.com/in/danish-bhatkar)
 - **Email**: bhatkardanish7@gmail.com | dbhatka@clemson.edu
 
-Looking forward to connecting with you and collaborating on exciting analytics-powered projects! 😎
-
+Looking forward to connecting with you and collaborating on software, data, and cloud projects! 😎
