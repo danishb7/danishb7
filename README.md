@@ -2,7 +2,7 @@
 #### I'm Danish Bhatkar, and I build **reliable backend systems**, **data workflows**, and **cloud-native solutions**.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+%2F+Python+Developer;Python+%7C+AWS+%7C+SQL+%7C+PostgreSQL+%7C+Docker;Reliable+backends+%26+data+workflows+on+AWS&font=Fira%20Code&center=true&width=920&height=50&duration=3200&pause=900&color=58A6FF&vCenter=true&fontSize=21" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+%2F+Python+Developer;Python+%7C+AWS+%7C+SQL+%7C+PostgreSQL;Reliable+backends+%26+data+workflows+on+AWS&font=Fira%20Code&center=true&width=920&height=50&duration=3200&pause=900&color=58A6FF&vCenter=true&fontSize=21" alt="Typing introduction" />
 </p>
 
 **Software / Python Developer** with experience in **Python**, **SQL**, **AWS**, and **PostgreSQL**, with a strong foundation in **data science** and **machine learning** from earlier roles and projects.
@@ -34,9 +34,11 @@
 - **Data Visualization & Analytics**: Power BI (DAX, Power Query), Tableau, Seaborn, Matplotlib, Excel (VBA), Alteryx
 
 ### Tech stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,postgres,git,github,postman,linux,bash&perline=6&theme=light" alt="Python, AWS, PostgreSQL, Git, GitHub, Postman, Linux, Bash" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,aws,postgres,mysql,cpp,js&perline=6&theme=light" alt="Python, AWS, PostgreSQL, SQL, C++, JavaScript" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=css,git,github,postman,linux,bash&perline=6&theme=light" alt="CSS, Git, GitHub, Postman, Linux, Bash" />
+</div>
 
 ## 📫 Contact Me
 - **GitHub**: [danishb7](https://github.com/danishb7)
