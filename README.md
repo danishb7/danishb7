@@ -1,6 +1,10 @@
 # Hey there 👋 
 #### I'm Danish Bhatkar, and I build **reliable backend systems**, **data workflows**, and **cloud-native solutions**.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+%2F+Python+Developer;Python+%7C+AWS+%7C+SQL+%7C+PostgreSQL+%7C+Docker;Reliable+backends+%26+data+workflows+on+AWS&font=Fira%20Code&center=true&width=920&height=50&duration=3200&pause=900&color=58A6FF&vCenter=true&fontSize=21" alt="Typing introduction" />
+</p>
+
 **Software / Python Developer** with experience in **Python**, **SQL**, **AWS**, and **PostgreSQL**, with a strong foundation in **data science** and **machine learning** from earlier roles and projects.
 
 ## 🚀 About Me
@@ -29,14 +33,9 @@
 - **Data Science & Machine Learning**: Scikit-learn, TensorFlow, Keras, PyTorch, OpenAI API, LangChain, Gymnasium; feature engineering
 - **Data Visualization & Analytics**: Power BI (DAX, Power Query), Tableau, Seaborn, Matplotlib, Excel (VBA), Alteryx
 
-### GitHub language mix
+### Tech stack
 <p align="center">
-  <a href="https://github.com/danishb7">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danishb7&theme=react" alt="Top languages by commit" />
-  </a>
-  <a href="https://github.com/danishb7">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danishb7&theme=react" alt="Top languages by repository" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,aws,postgres,docker,git,github,postman,pytorch,jupyter,linux,bash&perline=6&theme=light" alt="Python, AWS, PostgreSQL, Docker, Git, GitHub, Postman, PyTorch, Jupyter, Linux, Bash" />
 </p>
 
 ## 📫 Contact Me
