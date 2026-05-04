@@ -29,7 +29,15 @@
 - **Data Science & Machine Learning**: Scikit-learn, TensorFlow, Keras, PyTorch, OpenAI API, LangChain, Gymnasium; feature engineering
 - **Data Visualization & Analytics**: Power BI (DAX, Power Query), Tableau, Seaborn, Matplotlib, Excel (VBA), Alteryx
 
-<!-- [![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danishb7&theme=react)](https://github.com/danishb7) -->
+### GitHub language mix
+<p align="center">
+  <a href="https://github.com/danishb7">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danishb7&theme=react" alt="Top languages by commit" />
+  </a>
+  <a href="https://github.com/danishb7">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danishb7&theme=react" alt="Top languages by repository" />
+  </a>
+</p>
 
 ## 📫 Contact Me
 - **GitHub**: [danishb7](https://github.com/danishb7)
