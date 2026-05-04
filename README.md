@@ -35,7 +35,7 @@
 
 ### Tech stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,postgres,docker,git,github,postman,pytorch,jupyter,linux,bash&perline=6&theme=light" alt="Python, AWS, PostgreSQL, Docker, Git, GitHub, Postman, PyTorch, Jupyter, Linux, Bash" />
+  <img src="https://skillicons.dev/icons?i=python,aws,postgres,git,github,postman,linux,bash&perline=6&theme=light" alt="Python, AWS, PostgreSQL, Git, GitHub, Postman, Linux, Bash" />
 </p>
 
 ## 📫 Contact Me
