@@ -2,7 +2,7 @@
 #### I'm Danish Bhatkar, and I build **reliable backend systems**, **data workflows**, and **cloud-native solutions**.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+%2F+Python+Developer;Python+%7C+AWS+%7C+SQL+%7C+PostgreSQL+%7C+Docker;Reliable+backends+%26+data+workflows+on+AWS&font=Fira%20Code&center=true&width=920&height=50&duration=3200&pause=900&color=58A6FF&vCenter=true&fontSize=21" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+%2F+Python+Developer;Python+%7C+AWS+%7C+SQL+%7C+PostgreSQL;Reliable+backends+%26+data+workflows+on+AWS&font=Fira%20Code&center=true&width=920&height=50&duration=3200&pause=900&color=58A6FF&vCenter=true&fontSize=21" alt="Typing introduction" />
 </p>
 
 **Software / Python Developer** with experience in **Python**, **SQL**, **AWS**, and **PostgreSQL**, with a strong foundation in **data science** and **machine learning** from earlier roles and projects.
@@ -35,7 +35,14 @@
 
 ### Tech stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,postgres,docker,git,github,postman,pytorch,jupyter,linux,bash&perline=6&theme=light" alt="Python, AWS, PostgreSQL, Docker, Git, GitHub, Postman, PyTorch, Jupyter, Linux, Bash" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,postman,pytorch,jupyter,linux,bash&perline=6&theme=light" alt="Python, PostgreSQL, Git, GitHub, Postman, Linux, Bash" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Glue" />
+  <img src="https://img.shields.io/badge/Step%20Functions-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Step Functions" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-232F3E?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="Amazon CloudWatch" />
 </p>
 
 ## 📫 Contact Me
