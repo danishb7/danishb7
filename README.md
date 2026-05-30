@@ -12,7 +12,7 @@
 - I maintain a strong foundation in **data science**, including **predictive modeling**, **feature engineering**, **ML workflows**, and **analytics**.
 - I focus on end-to-end delivery, from **root-cause analysis** in production to **optimization** of data pipelines, and I continue to deepen my expertise in **software delivery** and **data-driven** solutions.
 
-## 💼 Experience
+## 💼 Where I've Worked
 - **Python Developer (Sep 2025 - Present)** at **Perficient** (client: **LPL Financial**) on the **ASOR** platform — production support, releases, and legacy-to-modern migration using **Python**, **SQL**, **PostgreSQL**, **Postman**, and **AWS** (Step Functions, Glue, Lambda, S3, Kafka, DynamoDB, EventBridge); recently improved runtime on a high-volume **Glue** ETL job by about **27%**.
 - **ML Engineer (Jan 2025 - Jun 2025)** at **Clemson University**, working on **PEFT LoRA** techniques to improve **fine-tuning** efficiency and accuracy of **foundation models**.
 - **Data Analyst (Dec 2020 - Jul 2023)** at **Godrej & Boyce Mfg. Co. Ltd.**, where I optimized reporting processes, integrated diverse datasets, and delivered insights through **Power BI** and **SQL**.
@@ -24,7 +24,7 @@
 - **[Wildfire Detection with ResNet-50](https://github.com/danishb7/Wildfire-Detection-with-ResNet-50)**: Wildfire image classification using **ResNet-50** and **PyTorch**.
 - **[Text-CRS Framework](https://github.com/danishb7/Text-CRS_NTS_Final)**: Extends the **TextCRS** framework to defend against sentence-level adversarial attacks using **LSTM** and **BERT**.
 
-## 🛠️ Skills
+## 🛠️ My Toolkit
 - **Software & Backend Development**: Python, SQL, Git, Spark SQL (ETL-oriented)
 - **Cloud & Data Engineering (AWS)**: Step Functions, Glue, Lambda, S3, DynamoDB, EventBridge, MSK/Kafka-related workflows, CI/CD
 - **Databases & Data Processing**: PostgreSQL, SQL (joins, CTEs, window functions), ETL, data cleansing, Pandas, NumPy
