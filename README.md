@@ -17,7 +17,7 @@
 - **ML Engineer (Jan 2025 - Jun 2025)** at **Clemson University**, working on **PEFT LoRA** techniques to improve **fine-tuning** efficiency and accuracy of **foundation models**.
 - **Data Analyst (Dec 2020 - Jul 2023)** at **Godrej & Boyce Mfg. Co. Ltd.**, where I optimized reporting processes, integrated diverse datasets, and delivered insights through **Power BI** and **SQL**.
 
-## 🔧 Stuff I've Built Recently Recently
+## 🔧 Stuff I've Built Recently
 - **[ETF Investment Advisor](https://github.com/danishb7/etf-investment-advisor)**: Local-first full-stack advisor (**FastAPI**, **React**, **SQL**) that scores US ETFs with transparent rules, macro/sentiment overlays, and portfolio simulation.
 - **[Dev Navigator (CodePal)](https://github.com/danishb7/dev-navigator)**: **FastAPI** web app that turns a project folder into a structured Markdown report with **OpenAI**; includes full test coverage and CI.
 - **[Job Seeker](https://github.com/danishb7/job-seeker)**: **FastAPI** app that uses an **OpenAI** agent with **web search** to find U.S. job postings from Markdown preferences; auto-saves results to CSV.
