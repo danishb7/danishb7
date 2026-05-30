@@ -17,13 +17,12 @@
 - **ML Engineer (Jan 2025 - Jun 2025)** at **Clemson University**, working on **PEFT LoRA** techniques to improve **fine-tuning** efficiency and accuracy of **foundation models**.
 - **Data Analyst (Dec 2020 - Jul 2023)** at **Godrej & Boyce Mfg. Co. Ltd.**, where I optimized reporting processes, integrated diverse datasets, and delivered insights through **Power BI** and **SQL**.
 
-## 📚 Featured Projects
-- **[Wildfire Detection with ResNet-50](https://github.com/danishb7/Wildfire-Detection-with-ResNet-50)**: Classifying wildfire images using ResNet-50.
-- **[Stock Price Prediction](https://github.com/danishb7/stock-price-prediction)**: Comparative study of **ML** and **DL** techniques for stock forecasting (AAPL & other tech stocks).
-- **[Movie Recommendation App](https://github.com/danishb7/popcorn-picks)**: Built a recommendation system for personalized movie suggestions.
-- **[Olympics Dashboard](https://github.com/danishb7/Data-Visualization-gr-01)**: Interactive dashboard designed with **D3.js**, **HTML**, and **CSS** to visualize Olympics data.
-- **[Premier League Statistical Analysis](https://github.com/danishb7/Premier-League-1993-2023)**: Analyzing data from the Premier League matches (1993-2023) using **SAS**.
-- **[Text-CRS Framework](https://github.com/danishb7/Text-CRS_NTS_Final)**: Extending the **TextCRS** framework to defend against sentence-level adversarial attacks using **LSTM** and **BERT**.
+## 🔧 Stuff I've Built Recently Recently
+- **[ETF Investment Advisor](https://github.com/danishb7/etf-investment-advisor)**: Local-first full-stack advisor (**FastAPI**, **React**, **SQL**) that scores US ETFs with transparent rules, macro/sentiment overlays, and portfolio simulation.
+- **[Dev Navigator (CodePal)](https://github.com/danishb7/dev-navigator)**: **FastAPI** web app that turns a project folder into a structured Markdown report with **OpenAI**; includes full test coverage and CI.
+- **[Job Seeker](https://github.com/danishb7/job-seeker)**: **FastAPI** app that uses an **OpenAI** agent with **web search** to find U.S. job postings from Markdown preferences; auto-saves results to CSV.
+- **[Wildfire Detection with ResNet-50](https://github.com/danishb7/Wildfire-Detection-with-ResNet-50)**: Wildfire image classification using **ResNet-50** and **PyTorch**.
+- **[Text-CRS Framework](https://github.com/danishb7/Text-CRS_NTS_Final)**: Extends the **TextCRS** framework to defend against sentence-level adversarial attacks using **LSTM** and **BERT**.
 
 ## 🛠️ Skills
 - **Software & Backend Development**: Python, SQL, Git, Spark SQL (ETL-oriented)
